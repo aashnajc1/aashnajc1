@@ -5,9 +5,13 @@ I have good leaderiship skills and team spirit.
 
 Technical Skills:
 👉 C
+
 👉 Python
+
 👉 SQL
+
 👉 Flutter 
+
 👉 Dart
 
 
