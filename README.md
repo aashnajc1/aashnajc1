@@ -17,9 +17,11 @@ Technical Skills:
 
 👉 Dart
 
+
+
 🤝Contact me via:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AashnaJChandrashekhar/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aashna-j-chandrashekhar-83417522a/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aashnaaax/)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashnajc1)](https://github.com/anuraghazra/github-readme-stats)
