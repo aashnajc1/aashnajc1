@@ -28,7 +28,7 @@ I have good leaderiship skills and team spirit.
 
 ### **📈Github Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnajc1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnajc1&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashnajc1&show_icons=true&theme=tokyonight)  
 
