@@ -1,10 +1,15 @@
 
-### Hi there 👋, my name is Aashna
+### Hi there 🙋‍♀️, my name is Aashna
 I am Aashna J Chandrashekhar currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analyics in SRM University Kattankulathur, Chennai, India.
 I aspire to become a data analyst.
 I have good leaderiship skills and team spirit.
 
-Skills: C / Python / SQL / Flutter / Dart 
+Technical Skills: 
+👉C 
+👉Python  
+👉SQL 
+👉Flutter
+👉Dart 
 
 
 
