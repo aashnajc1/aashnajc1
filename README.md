@@ -1,6 +1,6 @@
  ### Hi there, 🙋‍♀️ I'm Aashna 
  
-### **About me:**
+### **⛓️ About me:**
 I am Aashna J Chandrashekhar currently pursuing B.Tech in Computer Science Engineering with specilization in Big Data Analyics in SRM University Kattankulathur, Chennai, India.
 
 I aspire to become a data analyst.
@@ -28,7 +28,7 @@ I have good leaderiship skills and team spirit.
 
 ### **📈Github Stats:**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnajc1&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnajc1&show_icons=true&theme=tokyonight))]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashnajc1&show_icons=true&theme=tokyonight)  
 
