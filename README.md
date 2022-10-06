@@ -5,7 +5,7 @@ I aspire to become a data analyst.
 
 I have good leaderiship skills and team spirit.
 
-Technical Skills:
+**Technical Skills:**
 
 👉 C
 
@@ -19,10 +19,12 @@ Technical Skills:
 
 
 
-🤝Contact me via:
+**🤝Contact me via:**
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aashna-j-chandrashekhar-83417522a/)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aashnaaax/)  
+
+** 📈Github Stats:**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aashnajc1)](https://github.com/anuraghazra/github-readme-stats)
 
