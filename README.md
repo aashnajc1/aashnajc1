@@ -5,7 +5,7 @@ I aspire to become a data analyst.
 I have good leaderiship skills and team spirit.
 
 Technical Skills: 
-👉C 
+👉C  "\n"
 👉Python  
 👉SQL 
 👉Flutter
