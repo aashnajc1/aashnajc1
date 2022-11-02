@@ -32,5 +32,5 @@ I have good leadership skills and team spirit.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashnajc1&show_icons=true&theme=tokyonight)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aashnajc1&theme=tokyonight)  
+  
 
