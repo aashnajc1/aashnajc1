@@ -24,7 +24,14 @@ I have good leadership skills and team spirit.
 
 ### **🤝Contact me via:**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aashna-j-chandrashekhar-83417522a/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aashnaaax/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aashnajc1)  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashnajc1&label=Profile%20views&color=0e75b6&style=flat" alt="aashnajc1" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/aashnaaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashnaaax" height="30" width="40" /></a>
+</p>
+
 
 ### **📈Github Stats:**
 
