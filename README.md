@@ -26,8 +26,7 @@ I have good leadership skills and team spirit.
 
 <p align="left">
 <a href="https://instagram.com/aashnaaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashnaaax" height="30" width="40" /></a>
-</p>
-<p align="left">
+</p> <p align="left">
 <a href="https://linkedin.com/in/aashna-j-chandrashekhar-83417522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashna-j-chandrashekhar-83417522a" height="30" width="40" /></a>
 </p>
 
