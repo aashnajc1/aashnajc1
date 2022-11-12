@@ -41,15 +41,10 @@ I have good leadership skills and team spirit.
 <h2 align = "left"> 📈Github Stats: </h2>
 <p align="left">
 </p>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnajc1&layout=compact&theme=tokyonight)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashnajc1&show_icons=true&theme=tokyonight)  
+ 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=aashnajc1&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=aashnajc&color=blueviolet)
 
   
 
