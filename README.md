@@ -1,4 +1,4 @@
-  ![Screenshot 2022-11-12 225248](https://user-images.githubusercontent.com/105263888/201486662-ced69aa0-727d-44e5-9fef-523803b51cbb.png)
+
 
 ### Hi there, 🙋‍♀️ I'm Aashna 
  
