@@ -1,4 +1,6 @@
- ### Hi there, 🙋‍♀️ I'm Aashna 
+  ![Screenshot 2022-11-12 225248](https://user-images.githubusercontent.com/105263888/201486662-ced69aa0-727d-44e5-9fef-523803b51cbb.png)
+
+### Hi there, 🙋‍♀️ I'm Aashna 
  
 ### **⛓️ About me:**
 I am Aashna J Chandrashekhar currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analytics in SRM University Kattankulathur, Chennai, India.
@@ -8,7 +10,6 @@ I aspire to become a data analyst.
 I have good leadership skills and team spirit.
       
       
-  ![Screenshot 2022-11-12 225248](https://user-images.githubusercontent.com/105263888/201486662-ced69aa0-727d-44e5-9fef-523803b51cbb.png)
 
 
 ### **👩‍💻 Technical Skills:**
