@@ -4,7 +4,7 @@
 <p align="left">
 </p>
  
-<h1 align="center"> 💭 About me</h1>
+<h3 align="left"> 💭 About me : </h3>
 <p align="left">
 </p>
 
