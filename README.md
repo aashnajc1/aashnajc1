@@ -1,11 +1,13 @@
 
 
-<h1 align="center">Hi 👋, I'm Aashna</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hi , I'm Aashna 👋👩‍💻</h1>
 <p align="left">
 </p>
  
-### **⛓️ About me:**
+<h1 align = "center"> About me : </h1>
+<p align="left">
+</p>
+
 I am Aashna J Chandrashekhar currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analytics in SRM University Kattankulathur, Chennai, India.
 
 I aspire to become a data analyst.
