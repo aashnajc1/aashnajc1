@@ -4,7 +4,7 @@
 <p align="left">
 </p>
  
-<h3 align = "center"> About me : </h3>
+<h3 align = "left"> About me : </h3>
 <p align="left">
 </p>
 
@@ -15,7 +15,7 @@ I aspire to become a data analyst.
 I have good leadership skills and team spirit.
       
       
-<h3 align = "center"> Technical Skills : </h3>
+<h3 align = "left"> Technical Skills : </h3>
 <p align="left">
 </p>
 
@@ -29,7 +29,7 @@ I have good leadership skills and team spirit.
 
 👉 Dart
 
-<h4 align = "center"> Contact me via: </h4>
+<h4 align = "left"> Contact me via: </h4>
 <p align="left">
 </p>
 
