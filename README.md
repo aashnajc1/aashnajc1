@@ -1,9 +1,7 @@
 
 
-<h1 align="center">Hi , I'm Aashna 👋👩‍💻</h1>
-<p align="left">
-</p>
- 
+![Screenshot 2022-11-13 002240](https://user-images.githubusercontent.com/105263888/201490163-dd0d065b-810e-440b-89ed-659fce966abd.png)
+
 <h2 align="left"> 💭 About me : </h2>
 <p align="left">
 </p>
