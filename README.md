@@ -1,13 +1,13 @@
 
+![image](https://user-images.githubusercontent.com/105263888/201490266-1583796d-cc9e-4df6-8f59-41b0882ee6a4.png)
 
-![ok](https://user-images.githubusercontent.com/105263888/201490220-7114b470-a25e-431b-93f8-855950d38955.png)
 
 <h2 align="left"> 💭 About me : </h2>
 <p align="left">
 </p>
 
 I am Aashna J Chandrashekhar currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analytics in SRM University Kattankulathur, Chennai, India.
-![ok](https://user-images.githubusercontent.com/105263888/201490220-7114b470-a25e-431b-93f8-855950d38955.png)
+
 
 I aspire to become a data analyst.
 
