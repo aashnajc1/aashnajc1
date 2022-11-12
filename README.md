@@ -39,8 +39,10 @@ I have good leadership skills and team spirit.
 <a href="https://linkedin.com/in/aashna-j-chandrashekhar-83417522a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashna-j-chandrashekhar-83417522a" height="30" width="40" /></a>
 </p>
 
+<h4 align = "left"> 📈Github Stats: </h4>
+<p align="left">
+</p>
 
-### **📈Github Stats:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aashnajc1&layout=compact&theme=tokyonight)
 
