@@ -1,6 +1,9 @@
 
 
-### Hi there, 🙋‍♀️ I'm Aashna 
+<h1 align="center">Hi 👋, I'm Aashna</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
  
 ### **⛓️ About me:**
 I am Aashna J Chandrashekhar currently pursuing B.Tech in Computer Science Engineering with specialization in Big Data Analytics in SRM University Kattankulathur, Chennai, India.
