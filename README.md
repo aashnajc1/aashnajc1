@@ -4,7 +4,7 @@
 <p align="left">
 </p>
  
-<h1 align = "center"> About me : </h1>
+<h3 align = "center"> About me : </h3>
 <p align="left">
 </p>
 
@@ -15,9 +15,9 @@ I aspire to become a data analyst.
 I have good leadership skills and team spirit.
       
       
-
-
-### **👩‍💻 Technical Skills:**
+<h3 align = "center"> Technical Skills : </h3>
+<p align="left">
+</p>
 
 👉 C
 
@@ -29,9 +29,9 @@ I have good leadership skills and team spirit.
 
 👉 Dart
 
-
-
-### **🤝Contact me via:**
+<h4 align = "center"> Contact me via: </h4>
+<p align="left">
+</p>
 
 <p align="left">
 <a href="https://instagram.com/aashnaaax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashnaaax" height="30" width="40" /></a>
