@@ -4,7 +4,7 @@
 <p align="left">
 </p>
  
-<h3 align="left"> 💭 About me : </h3>
+<h1 align="left"> 💭 About me : </h1>
 <p align="left">
 </p>
 
@@ -15,7 +15,7 @@ I aspire to become a data analyst.
 I have good leadership skills and team spirit.
       
       
-<h3 align = "left"> Technical Skills : </h3>
+<h3 align = "left"> 💻Technical Skills : </h3>
 <p align="left">
 </p>
 
