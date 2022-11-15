@@ -1,6 +1,7 @@
-
-   ![image](https://user-images.githubusercontent.com/105263888/201490266-1583796d-cc9e-4df6-8f59-41b0882ee6a4.png)
-
+<h1 align="center">Hi , I'm Aashna 👋👩‍💻</h1>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <h2 align="left"> 💭 About me : </h2>
 <p align="left">
