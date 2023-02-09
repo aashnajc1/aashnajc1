@@ -18,7 +18,7 @@ I have good leadership skills and team spirit.
 <p align="left">
 </p>
 
-👉 C
+👉 C/C++
 
 👉 Python
 
